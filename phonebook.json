@@ -1,0 +1,21 @@
+[
+  {"firstName": "Микеланджело",
+    "lastName": "Антониони",
+    "address":{"streetAdress":"Виа дель Корсо","city": "Рим","country":"Италия"},
+    "phoneNumber": "29 09 1912"},
+  {"firstName": "Алехандро",
+    "lastName":"Ходоровски",
+    "address":{"streetAdress":"Санта Роса","city":"Токопилья","country":"Чили"},
+    "phoneNumber": "17 02 1929"},
+  {"firstName":"Андрей",
+    "lastName":"Тарковский",
+    "address":{"streetAdress":"Магистральная","city":"Кострома","country":"Россия"},
+    "phoneNumber":"04 04-1929"},
+  {"firstName":"Акира","lastName":"Куросава",
+    "address":{"streetAdress":"Минами","city":"Токио","country":"Япония"},
+    "phoneNumber":"812 123-1234"},
+  {"firstName":"Стэнли",
+    "lastName":"Кубрик",
+    "address":{"streetAdress":"42-ая, Манхэттен","city":"Нью-Йорк","country":"США"},
+    "phoneNumber": "2001 26 07-1928"}
+]
