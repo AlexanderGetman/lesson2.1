@@ -1,7 +1,6 @@
 <?php
-$url = 'http://university.netology.ru/u/agetman/phonebook.json';
-$contents = file_get_contents($url);
-$contents = json_decode($contents, true);
+$json = file_get_contents(__DIR__ . '/phonebook.json');
+$contents = json_decode($json, true);
 ?>
 <html>
 <head>
